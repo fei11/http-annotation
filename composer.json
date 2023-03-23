@@ -1,5 +1,5 @@
 {
-    "name": "easyswoole/http-annotation",
+    "name": "fei11/http-annotation",
     "type": "library",
     "description": "php stander lib",
     "keywords": [
@@ -28,7 +28,7 @@
         "easyswoole/parsedown": "^1.0"
     },
     "require-dev": {
-        "easyswoole/phpunit": "^1.0",
+        "fei11/phpunit": "^1.0",
         "easyswoole/swoole-ide-helper": "^1.0"
     },
     "autoload": {
